@@ -364,6 +364,9 @@ r
     display: block;
   }
   }
+  #move{
+    display: none;
+  }
   #mobile1 {
     font-size:20px ;
     display: flex;
